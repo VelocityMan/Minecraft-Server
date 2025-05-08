@@ -1,3 +1,3 @@
 # SpookNetwork
 
-<clipboard-copy value="src/index.js">Copy</clipboard-copy>
+<clipboard-copy value="hihi">Copy</clipboard-copy>
