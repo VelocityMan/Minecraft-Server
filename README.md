@@ -1,3 +1,4 @@
 # SpookNetwork
 
-<clipboard-copy value="hihi">Copy</clipboard-copy>
+<clipboard-copy for="blob-path">Copy</clipboard-copy>
+<div id="blob-path">src/index.js</div>
