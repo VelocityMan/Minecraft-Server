@@ -54,7 +54,7 @@ https://github.com/playit-cloud/playit-minecraft-plugin/releases/latest/download
 Afterwards stop and start your minecraft server by using the commands listed on Startup.
 > when you run this command you will see many messages that are spamming again like:
 [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
-[gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/"your code"
+[gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/"yourcode"
 > click into the link like that to make agent in playit.gg but you have to have an account in playit.gg first
 when you done adding agent go to the agent section in playit.gg website, click into the agent you created for minecraft server, scroll down to the bottom and click "add tunnel", when adding tunnel, keep the region is global because it's free, change the tunnel type to "Minecraft java(game)" and then wait for it to create the tunnel, after that in tunnel you will see 2 ip like "africa-champion.gl.joinmc.link" or "147.185.221.20:38120", copy one of these 2 ip and join minecraft server normally.
 
@@ -65,4 +65,10 @@ when you done adding agent go to the agent section in playit.gg website, click i
 > Enter the port: "38120"
 
 > Now Choose your domain name and server name! Enjoy your domain!
+
+** Making the server last longer
+By default github stops your codespace if your not using it for 30 minutes.
+But, you can change this to 4 hours by following the steps below:
+> Go to settings, click "Codespaces" under the "Code, planning, and automation"
+> Scroll down to "Default idle timeout" and set it to 240 minutes aka 4 hours
 
