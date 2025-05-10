@@ -46,3 +46,23 @@ stop
 GitHub will use 8 gb rams and 2 cores in cpu as default so you have to change it.
 > to change follow these steps:
 go back to the repository page and then find the code with green color button then go to the codespaces section, under the on current branch, find your codespace with uncommitted changes phase, click 3 dots button then stop the codespace, after that the website will refresh and click again that 3 dots, click into change machine type, change to 4-core then update codespace then well done.
+
+You can add custom domains to your minecraft server by doing these steps:
+download this plugin and drag it in your plugins folder
+https://github.com/playit-cloud/playit-minecraft-plugin/releases/latest/download/playit-minecraft-plugin.jar
+
+Afterwards stop and start your minecraft server by using the commands listed on Startup.
+> when you run this command you will see many messages that are spamming again like:
+[gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/"your code"
+> click into the link like that to make agent in playit.gg but you have to have an account in playit.gg first
+when you done adding agent go to the agent section in playit.gg website, click into the agent you created for minecraft server, scroll down to the bottom and click "add tunnel", when adding tunnel, keep the region is global because it's free, change the tunnel type to "Minecraft java(game)" and then wait for it to create the tunnel, after that in tunnel you will see 2 ip like "africa-champion.gl.joinmc.link" or "147.185.221.20:38120", copy one of these 2 ip and join minecraft server normally.
+
+> Afterwards, get the number ip you got example: "147.185.221.20:38120"
+> Go to https://shockbyte.com/subdomain-creator
+> Put your email doesn't matter what email you put.
+> Enter the number ip example: "147.185.221.20"
+> Enter the port: "38120"
+
+> Now Choose your domain name and server name! Enjoy your domain!
+
