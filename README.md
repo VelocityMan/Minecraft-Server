@@ -31,6 +31,8 @@ wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
+> It's going to ask you to accept the eula, to accept find "eula.txt" and make sure its set to: eula=true
+
 > Servers that Has 8 Ram & 2 CPU cores
 ```bash
 java -Xmx8G -Xms4G -jar paper.jar --nogui
