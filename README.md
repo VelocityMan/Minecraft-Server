@@ -8,7 +8,7 @@ wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
-# Note: To Close Use,
+## Note: To Close Use,
 ```bash
 stop
 ```
