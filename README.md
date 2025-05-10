@@ -31,6 +31,10 @@ wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
+### Servers that Has 8 Ram
+```bash
+java -Xmx8G -Xms4G -jar paper.jar --nogui
+```
 ## Closing The Server
 ```bash
 stop
