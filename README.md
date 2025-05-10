@@ -22,16 +22,16 @@ java -version
 > openjdk version "21" 2025-10-19 LTS
 > OpenJDK Runtime Environment Corretto-21.0.0.35.1 (build 21+35-LTS)
 > OpenJDK 64-Bit Server VM Corretto-21.0.0.35.1 (build 21+35-LTS, mixed mode, sharing)
-## Step 1: Download Paper
+## Download Paper
 ```bash
 wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar
 ```
 > Note: make sure to rename the file downloaded to "paper.jar"
-## Step 2: Start Server
+## Startup
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
-## To Close Use
+## Closing The Server
 ```bash
 stop
 ```
