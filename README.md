@@ -19,8 +19,7 @@ sudo apt-get install -y java-21-amazon-corretto-jdk libxi6 libxtst6 libxrender1
 ```bash
 java -version
 ```
-> [!Should Say This]
-> openjdk version "21" 2025-10-19 LTS ###Time will be different
+> openjdk version "21" 2025-10-19 LTS
 > OpenJDK Runtime Environment Corretto-21.0.0.35.1 (build 21+35-LTS)
 > OpenJDK 64-Bit Server VM Corretto-21.0.0.35.1 (build 21+35-LTS, mixed mode, sharing)
 ## Step 1: Download Paper
