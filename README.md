@@ -47,7 +47,7 @@ GitHub will use 8 gb rams and 2 cores in cpu as default so you have to change it
 > to change follow these steps:
 go back to the repository page and then find the code with green color button then go to the codespaces section, under the on current branch, find your codespace with uncommitted changes phase, click 3 dots button then stop the codespace, after that the website will refresh and click again that 3 dots, click into change machine type, change to 4-core then update codespace then well done.
 
-You can add custom domains to your minecraft server by doing these steps:
+## You can add custom domains to your minecraft server by doing these steps:
 download this plugin and drag it in your plugins folder
 https://github.com/playit-cloud/playit-minecraft-plugin/releases/latest/download/playit-minecraft-plugin.jar
 
