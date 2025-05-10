@@ -1,4 +1,6 @@
 # SpookNetwork
+> [!IMPORTANT]
+> Follow the step by step to make a Minecraft Server.
 
 ### Step 1: Download Paper,
 ```bash
