@@ -1,6 +1,7 @@
 # Minecraft Server [![Discord](https://img.shields.io/discord/1225272078752813178?label=Discord)](https://discord.gg/m6vCCX6Hvr) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwSd8pbURlMBAIxqq8EaELw?style=flat-square&label=Subscribers)](https://www.youtube.com/@ismaeltechI?sub_confirmation=1)
 > [!IMPORTANT]
-> Follow step by step to make a Minecraft Server or you will mess up.
+> I highly recommend you download the steps for more information
+> https://github.com/VelocityMan/Minecraft-Server/releases/tag/steps
 
 ## Installing Java 21
 ```bash
