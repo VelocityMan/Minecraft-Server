@@ -41,6 +41,11 @@ java -Xmx8G -Xms4G -jar paper.jar --nogui
 ```bash
 stop
 ```
+## Going to your server:
+> Press on "Ports" and change the visiblity to "Public"
+> Press on the port and it will link u to your server ip
+> example it might say: "friendly-doodle-x5vxxv9q4wg436wv.25565.github.dev"
+> copy and paste that onto your server list and you can join it
 
 # Optional Settings:
 GitHub will use 8 gb rams and 2 cores in cpu as default so you have to change it.
