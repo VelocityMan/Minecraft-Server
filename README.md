@@ -31,7 +31,7 @@ wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
-> Servers that Has 8 Ram
+> Servers that Has 8 Ram & 2 CPU cores
 ```bash
 java -Xmx8G -Xms4G -jar paper.jar --nogui
 ```
@@ -39,3 +39,8 @@ java -Xmx8G -Xms4G -jar paper.jar --nogui
 ```bash
 stop
 ```
+
+## Optional Settings:
+GitHub will use 8 gb rams and 2 cores in cpu as default so you have to change it.
+### to change follow these steps:
+go back to the repository page and then find the code with green color button then go to the codespaces section, under the on current branch, find your codespace with uncommitted changes phase, click 3 dots button then stop the codespace, after that the website will refresh and click again that 3 dots, click into change machine type, change to 4-core then update codespace then well done.
