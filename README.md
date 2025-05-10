@@ -21,8 +21,8 @@ java -version
 ```
 > Should Say:
 > openjdk version "21" 2025-10-19 LTS
-  OpenJDK Runtime Environment Corretto-21.0.0.35.1 (build 21+35-LTS)
-  OpenJDK 64-Bit Server VM Corretto-21.0.0.35.1 (build 21+35-LTS, mixed mode, sharing)
+> OpenJDK Runtime Environment Corretto-21.0.0.35.1 (build 21+35-LTS)
+> OpenJDK 64-Bit Server VM Corretto-21.0.0.35.1 (build 21+35-LTS, mixed mode, sharing)
 ## Step 1: Download Paper
 ```bash
 wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar
