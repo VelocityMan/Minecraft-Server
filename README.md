@@ -2,15 +2,16 @@
 > [!IMPORTANT]
 > Follow the step by step to make a Minecraft Server.
 
-### Step 1: Download Paper,
+## Step 1: Download Paper,
 ```bash
 wget https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar
 ```
-### Step 2: Start Server,
+> Note: make sure to rename the file downloaded to "paper.jar"
+## Step 2: Start Server,
 ```bash
 java -Xmx16G -Xms4G -jar paper.jar --nogui
 ```
-### Note: To Close Use,
+#### To Close Use,
 ```bash
 stop
 ```
