@@ -66,7 +66,7 @@ when you done adding agent go to the agent section in playit.gg website, click i
 
 > Now Choose your domain name and server name! Enjoy your domain!
 
-** Making the server last longer
+## Making the server last longer
 By default github stops your codespace if your not using it for 30 minutes.
 But, you can change this to 4 hours by following the steps below:
 > Go to settings, click "Codespaces" under the "Code, planning, and automation"
